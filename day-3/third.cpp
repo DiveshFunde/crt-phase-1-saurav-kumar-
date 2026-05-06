@@ -1,4 +1,4 @@
-//wap that takes an integer from user as input print all the numbers from 1 to n that is divisible by 2
+
 
 #include<iostream>
 using namespace std;
